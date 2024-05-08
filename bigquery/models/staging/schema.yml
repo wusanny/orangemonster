@@ -1,0 +1,6 @@
+
+version: 2
+
+models:
+    - name: potato
+      description: happy good carb
