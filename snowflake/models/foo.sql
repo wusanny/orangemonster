@@ -1,1 +1,1 @@
-select 1 as column
+select 1 as birds
